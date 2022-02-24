@@ -1,1 +1,3 @@
+git checkout main
+git pull
 touch up_to_date
